@@ -1,0 +1,13 @@
+.linechartmaindiv{
+    border-radius: 5px;
+    box-shadow: 0 0 5px #999;
+    padding-top: 10px;
+    background-color: white;
+}
+
+.linechartdheading{
+    padding-left: 10px;
+    margin-bottom: 20px;
+    color: blue;
+    font-weight: bold;
+}

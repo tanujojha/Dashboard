@@ -1,0 +1,23 @@
+.illustmaindiv{
+    padding: 10px;
+    box-shadow: 0 0 5px #999;
+    border-radius: 5px;
+    background-color: white;
+}
+
+
+.illustmaindiv > h5{
+    font-weight: bold;
+    color: blue; 
+}
+
+.illustimg{
+    object-fit: cover;
+    width: 100%;
+
+}
+
+.illustcontdiv > p{
+    color: gray;
+    font-weight: 500;
+}

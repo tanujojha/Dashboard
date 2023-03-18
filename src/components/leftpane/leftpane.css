@@ -1,0 +1,44 @@
+.leftpanemaindiv{
+    background-color: rgb(148, 174, 176);
+    height: 100%;
+}
+
+.sbadmindiv{ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding-top: 6px;
+}
+
+.emogi{
+  font-size: 30px;
+  
+}
+
+.sbadmin{
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.text-muted{
+  text-align: center;
+}
+
+  
+.divind{
+  display: flex;
+  gap: 20px;
+  position: relative;
+  margin: 20px 0;
+}
+
+.forarrow{
+  position: absolute;
+  right: 0;
+}
+
+.drawericondiv{
+  display: flex;
+  justify-content: center;
+}

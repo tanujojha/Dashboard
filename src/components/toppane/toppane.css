@@ -1,0 +1,48 @@
+.navbar{
+    padding: 10px 30px;
+}
+
+/* left side of navbar */
+.searchdiv{
+    width: 400px;
+}
+
+.searchicon{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+/* right siide of navbar */
+.naviconandprofdiv{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 40px;
+}
+
+.notificons{
+    display: flex;
+    gap: 20px;
+    padding: 5px 0;
+}
+  
+.profileicondiv{
+    display: flex;
+    gap: 20px;
+}
+
+.avatarname{
+    padding: 5px 0;
+}
+
+.profileimgdiv{
+    border-radius: 50%;
+    width: 40px;
+}
+
+.avatarimg{
+    width: inherit;
+    border-radius: inherit;
+}
+
+

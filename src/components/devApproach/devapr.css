@@ -1,0 +1,19 @@
+.devaprmaindiv{
+    margin-top: 30px;
+    padding: 10px;
+    box-shadow: 0 0 5px #999;
+    border-radius: 5px;
+}
+
+.devaprmaindiv > h5{
+    font-weight: bold;
+    color: blue;
+}
+
+.devaprcontdiv{
+    margin: 30px 0;
+}
+
+.devaprcontdiv > p{
+    color: gray;
+}

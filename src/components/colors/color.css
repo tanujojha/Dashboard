@@ -1,0 +1,27 @@
+.colormaindiv{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.colordiv{
+    display: flex;
+    flex-direction: column;
+    /* gap: 3px; */
+    width: 200px;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+    box-shadow: 0px 0px 5px #999;
+}
+
+.colname{
+    color: rgb(57, 54, 54);
+    font-weight: 500;
+}
+
+.colcode{
+    font-size: 14px;
+    color: rgb(188, 178, 178);
+}
